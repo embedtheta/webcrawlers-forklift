@@ -1,0 +1,17 @@
+README.md
+equipementsemu_2.py
+finding_inventaire.py
+csearch.py
+.idea/
+one_time.py
+__pycache__/
+*.xls
+*.xlsx
+.git/
+send_photos_to_bucket.py
+.gitignore
+env.*.yaml
+test_*.py
+.pytest_cache/
+deploy.sh
+_standalone/
